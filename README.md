@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mduzoylum/mduzoylum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About:
 
-Here are some ideas to get you started:
+- ⚡ 8 years Web programming experience.
+- ⚡ Project Development and Web Service writing with Laravel
+- ⚡ Experience in Web based using PHP for enterprise applications
+- ⚡ Understanding of Html, Css, Js&Jquery and other web technology
+- ⚡ Experience in Mysql, PostgreSQL Database.
+- ⚡ Front-end and back-end protection embedded systems project development with QT.
+- ⚡ Working experience with Java(Spring, Jsf, Primefaces)
+- ⚡ Extensive working in code version management systems.(Git/Github)
+- ⚡ Has knowledge in JSON and XML principle.
+- ⚡ Extensive working experience in Corporate Governance Plans and E-Commerce based domains.
+- ⚡ Has knowledge in applying design models such as MVC and OOP principles.
+- ⚡ Extensive working experience with Linux Bash Script. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
