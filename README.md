@@ -6,12 +6,12 @@
 [![](https://img.shields.io/badge/Mysql-baffc9?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jquery-ffdfba?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![](https://img.shields.io/badge/JavaScript-ffdfba?style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![](https://img.shields.io/badge/Github-ffffba?style=for-the-badge&logo=github&logoColor=white)](#)
+[![](https://img.shields.io/badge/Github-ffb3ba?style=for-the-badge&logo=github&logoColor=white)](#)
 [![](https://img.shields.io/badge/HTML-ffdfba?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/CSS-ffdfba?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![](https://img.shields.io/badge/Json-ffdfba?style=for-the-badge&logo=json&logoColor=white)](#)
 [![](https://img.shields.io/badge/Bootstrap-ffdfba?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![](https://img.shields.io/badge/Linux-ffffba?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![](https://img.shields.io/badge/Linux-ffb3ba?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![](https://img.shields.io/badge/Java-bae1ff?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ### About
