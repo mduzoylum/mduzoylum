@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/badge/Laravel-bae1ff?style=for-the-badge&logo=laravel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Php-bae1ff?style=for-the-badge&logo=php&logoColor=white)](#)
-[![](https://img.shields.io/badge/Postgresql-baffc9?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![](https://img.shields.io/badge/Mysql-baffc9?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![](https://img.shields.io/badge/Postgresql-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![](https://img.shields.io/badge/Mysql-B5EAD7?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jquery-ffdfba?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![](https://img.shields.io/badge/JavaScript-ffdfba?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![](https://img.shields.io/badge/Github-ffb3ba?style=for-the-badge&logo=github&logoColor=white)](#)
