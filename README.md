@@ -1,7 +1,7 @@
 ## Skills
 
-[![](https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php&logoColor=white)](#)
+[![](https://img.shields.io/badge/Laravel-b58f1f?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![](https://img.shields.io/badge/Php-b58f1f?style=for-the-badge&logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Postgresql-563D7C?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Mysql-563D7C?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jquery-239120?style=for-the-badge&logo=jquery&logoColor=white)](#)
@@ -10,9 +10,9 @@
 [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![](https://img.shields.io/badge/Json-239120?style=for-the-badge&logo=json&logoColor=white)](#)
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![](https://img.shields.io/badge/Linux-563D7C?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![](https://img.shields.io/badge/Java-563D7C?style=for-the-badge&logo=java&logoColor=white)](#)
+[![](https://img.shields.io/badge/Java-b58f1f?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ### About
 
