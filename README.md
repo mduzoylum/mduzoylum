@@ -15,3 +15,14 @@ About:
 - ⚡ Has knowledge in applying design models such as MVC and OOP principles.
 - ⚡ Extensive working experience with Linux Bash Script. 
 
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-düzoylum-563a8547/)
+[![Follow on Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mduzoylum.com/)  
+
+## Skills
+[![Skills Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
+[![Skills Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![Skills HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Skills CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Skills Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mduzoylum)](https://github.com/anuraghazra/github-readme-stats)
