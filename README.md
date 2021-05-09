@@ -16,7 +16,6 @@
 
 ### About
 
-- ⚡ 8 years Web programming experience.
 - ⚡ Project Development and Web Service writing with Laravel
 - ⚡ Experience in Web based using PHP for enterprise applications
 - ⚡ Understanding of Html, Css, Js&Jquery and other web technology
