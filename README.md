@@ -33,8 +33,6 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-düzoylum-563a8547/)
 [![Follow on Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mduzoylum.medium.com)  
 
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
-
 ### Connect with me:
 [<img align="left" alt="mehmet-duzoylum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehmet-düzoylum-563a8547/)
 [<img align="left" alt="mehmet-duzoylum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://mduzoylum.medium.com)
