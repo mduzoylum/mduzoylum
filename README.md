@@ -28,13 +28,13 @@
 - ⚡ Has knowledge in applying design models such as MVC and OOP principles.
 - ⚡ Extensive working experience with Linux Bash Script. 
 
+---
 
 ## Connect me
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-düzoylum-563a8547/)
 [![Follow on Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mduzoylum.medium.com)  
 
---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mduzoylum&show_icons=true&locale=en&layout=compact" alt="mehmetduzoylum" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mduzoylum&show_icons=true&locale=en" alt="mehmetduzoylum" width="50%" /></p><br />
