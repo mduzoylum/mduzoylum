@@ -1,6 +1,7 @@
 ## Skills
 
 [![](https://img.shields.io/badge/Laravel-bae1ff?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodejs&logoColor=white)](#)
 [![](https://img.shields.io/badge/Php-bae1ff?style=for-the-badge&logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Postgresql-B5EAD7?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![](https://img.shields.io/badge/Mysql-B5EAD7?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -17,7 +18,7 @@
 ### About
 
 - ⚡ Project Development and Web Service writing with Laravel
-- ⚡ Experience in BackEnd; Laravel, Php, Golang
+- ⚡ Experience in BackEnd; Laravel, Php, NodeJs, Golang
 - ⚡ Experience in FrontEnd; Vue JS, HTML & CSS & JS
 - ⚡ Experience in Queue Structure ; RabbitMQ
 - ⚡ Experience in Cache Structure; Redis
