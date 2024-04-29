@@ -18,7 +18,7 @@
 ### About
 
 - ⚡ Project Development and Web Service writing with Laravel
-- ⚡ Experience in BackEnd; Laravel, Php, NodeJs, Golang
+- ⚡ Experience in BackEnd; Laravel, Php, NodeJs
 - ⚡ Experience in FrontEnd; Vue JS, HTML & CSS & JS
 - ⚡ Experience in Queue Structure ; RabbitMQ
 - ⚡ Experience in Cache Structure; Redis
